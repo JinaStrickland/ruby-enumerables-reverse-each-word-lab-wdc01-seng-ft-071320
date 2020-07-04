@@ -14,6 +14,6 @@ end
 #   array = sentence.split(" ")
 #   array.collect { | word | word.reverse }.join(" ")
 # end
-
+#
 
 #reverse_each_word(sentence)
