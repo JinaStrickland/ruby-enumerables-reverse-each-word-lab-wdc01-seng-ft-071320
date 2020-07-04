@@ -17,3 +17,5 @@ end
 #
 
 #reverse_each_word(sentence)
+
+  #=> "olleH ,ereht dna woh era ?uoy"
